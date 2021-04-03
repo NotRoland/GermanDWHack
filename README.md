@@ -1,4 +1,4 @@
-#GermanDW Hack
+# GermanDW Hack
 
 This tool can manipulate the results (percentage, exercise count, etc.) of a `learngerman.dw` exercise.
 I made this for my german homework.
